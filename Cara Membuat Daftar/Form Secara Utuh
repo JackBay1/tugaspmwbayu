@@ -1,0 +1,9 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Belajr Membuat Form </title>
+</head>
+<body>
+<form action= "formulir.html" method="get">
+
+Nama: <input type="text" name="nama" value="password"/>
